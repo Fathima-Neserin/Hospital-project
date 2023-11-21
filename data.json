@@ -1,0 +1,24 @@
+{
+  "hospitals": [
+    {
+      "name": "Lisie Hospital",
+      "patientCount": 1500,
+      "location": "Cochin"
+    },
+    {
+      "name": "Maria Theresa Hospital",
+      "patientCount": 500,
+      "location": "Thrissur"
+    },
+    {
+      "name": "Baby Memorial Hospital",
+      "patientCount": 1000,
+      "location": "Calicut"
+    },
+    {
+      "name": "Sree Uthradom Thirunal Hospital",
+      "patientCount": 1300,
+      "location": "Trivandrum"
+    }
+  ]
+}
